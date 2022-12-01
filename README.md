@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Frisded
+- 👋 Hi, I’m @MateoMor
 - 👀 I’m interested in IA develop
 - 🌱 I’m currently learning Python
